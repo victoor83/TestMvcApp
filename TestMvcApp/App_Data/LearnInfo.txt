@@ -1,0 +1,2 @@
+﻿http://www.tutorialsteacher.com/mvc/mvc-controller
+Ostatni Step: dodanie StudentController , ktory zwraca string przez metode index

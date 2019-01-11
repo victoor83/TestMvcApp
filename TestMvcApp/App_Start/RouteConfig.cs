@@ -12,8 +12,7 @@ namespace TestMvcApp
             //#learning
             //specifies that any URL that starts with domainName/students, must be handled by StudentController.
             routes.MapRoute(
-            name: "Student",
-
+            name: "Student",      
             url: "students/{id}",
             defaults: new { controller = "Student", action = "Index" }
         );
